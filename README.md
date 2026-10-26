@@ -1,4 +1,4 @@
-# Cálculos :1234:
+# Cálculos 🔢
 
 Aplicação C# para efetuar diversos tipos de cálculos.
 
@@ -13,11 +13,11 @@ Neste momento esta aplicação implementa as seguintes operações:
 - soma
 - subtração
 - conversão de temperaturas
-    - celsius :arrow_right: fahrenheit
-    - fahteheit :arrow_right: celsius
+    - celsius ➡️ fahrenheit
+    - fahteheit ➡️ celsius
 - conversão de distâncias:
-    - metros :arrow_right: milhas
-    -milhas :arrow_right: metros
+    - metros ➡️ milhas
+    - milhas ➡️ metros
 
 ## Tecnologias utilizadas neste projeto
 
